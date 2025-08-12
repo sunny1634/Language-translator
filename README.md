@@ -4,7 +4,7 @@ Creating a Language translation application using Python GUI and GoogleTrans Lib
 
 ## To simply run this Model:
 1. Clone this repository
-2. Run the [gui.py](https://github.com/aasthavats16/Language-Translator-/blob/main/Language%20translator.ipynb) file
+2. Run the [gui.py](https://github.com/sunny1634/Language-translator.git) file
 3. Choose the language you want to convert
 4. Choose the Language in which you want the conversion
 5. Click on Translate button
